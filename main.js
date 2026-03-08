@@ -1,3 +1,4 @@
+
 const progressBar = document.querySelector("#progress-bar");
 const percentage = document.querySelector("#percentage");
 const startBtn = document.querySelector("#start-btn");
