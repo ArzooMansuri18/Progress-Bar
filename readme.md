@@ -52,4 +52,3 @@
     <li>Update UI until the value reaches 100%</li>
     <li>Stop the interval and show "Completed" or full bar</li>
 </ul>
-
