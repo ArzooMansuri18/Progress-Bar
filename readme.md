@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>Progress Bar Animation</h1>
 
 <p>This project is a smooth and interactive <b>Progress Bar Animation</b> created using <b>HTML, CSS and JavaScript.</b> The bar fills up from 0% to 100% with animation when a button is clicked or automatically on page load.</p>
@@ -110,5 +109,4 @@
     <li>Stop the interval and show "Completed" or full bar</li>
 </ul>
 
->>>>>>> c1b0fa8df98677f5dd35cf9700c9ee62c4feac86
 <h2>Author:- Arzoo Mansuri</h2>
